@@ -1,2 +1,2 @@
-# pubg
+# PubG
 YouTuber
